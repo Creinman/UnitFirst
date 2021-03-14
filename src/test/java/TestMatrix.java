@@ -1,9 +1,9 @@
-import java.util.Arrays;
-import java.util.Scanner;
-import java.util.Random;
+import java.util.*;
 import org.unit.jupiter.api.Test;
-import org.junit.*;
-import org.junit.rules.ExpectedException;
+
+import org.junit.Assert;
+import static org.junit.Assert.*;
+
 
 class TestMatrix {
     public static final int SIZE = 3;
